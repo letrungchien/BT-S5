@@ -45,7 +45,7 @@ int main(){
          		}
          		break;
          		case 5:
-         			printf(" chuong trinh ket thuc\");
+         			printf(" chuong trinh ket thuc");
          		default:
          			printf("lua chon khong hop le");
 			 }
